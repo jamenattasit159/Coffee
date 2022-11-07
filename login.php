@@ -38,7 +38,7 @@ session_start();
 			<h2>Sign in</h2>
 			<div class="inputBox">
 			<input type="email" class="form-control" name="email" aria-describedby="email" required="required">
-				<span>Userame</span>
+				<span>Email</span>
 				<i></i>
 			</div>
 			<div class="inputBox">
